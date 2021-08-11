@@ -1,5 +1,5 @@
-[![dhimant1990’s github stats](https://github-readme-stats.vercel.app/api?username=dhimant1990&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhimant1990&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![dhimant1990’s github stats](https://github-readme-stats.vercel.app/api?username=dhimant1990&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhimant1990&show_icons=true&layout=compact&theme=vue&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
