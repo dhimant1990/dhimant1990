@@ -4,7 +4,7 @@
   <img src="assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://www.linkedin.com/in/dhimant1990/">Dhimant Desai</a>
 </h1>
 
-<img align="right" alt="GIF" src="assets/coding.gif" width="300px" height="260px"/>
+<img align="right" alt="GIF" src="assets/coding.gif" width="350px" height="250px"/>
 
 ### 🧐 About
 
@@ -20,6 +20,7 @@
 - 💬 Ask me about anything related to Flutter development  
 - 📫 How to reach me: mail me at [dhimant1990@gmail.com](mailto:dhimant1990@gmail.com)
 - ⚡ Fun fact: I love to watch movies and ride motorbike/cars
+
 
 [![dhimant1990’s github stats](https://github-readme-stats.vercel.app/api?username=dhimant1990&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
