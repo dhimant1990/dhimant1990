@@ -4,7 +4,7 @@
   <img src="assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://www.linkedin.com/in/dhimant1990/">Dhimant Desai</a>
 </h1>
 
-<img align="right" alt="GIF" src="assets/coding.gif" width="350px" height="250px"/>
+<img align="right" alt="GIF" src="assets/coding.gif" width="300px" height="250px"/>
 
 ### 🧐 About
 
