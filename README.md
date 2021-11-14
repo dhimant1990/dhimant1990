@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 <h1 align="center">
   <img src="assets/hello.gif" alt="hello-gif" height="150px">
   <br>
