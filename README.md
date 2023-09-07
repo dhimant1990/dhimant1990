@@ -13,15 +13,7 @@
 
 ### 🧐 About
 
-- 🔭 I’m currently working as a Flutter Developer
-- ⏳ I’m currently learning
-![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
-![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working as a Flutter/Dart Developer
 - 💬 Ask me about anything related to Flutter development  
 - 📫 How to reach me: mail me at [dhimant1990@gmail.com](mailto:dhimant1990@gmail.com)
 - ⚡ Fun fact: I love to watch movies and ride motorbike/cars
